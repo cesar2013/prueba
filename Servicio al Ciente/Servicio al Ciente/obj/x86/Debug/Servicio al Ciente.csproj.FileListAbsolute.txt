@@ -1,0 +1,14 @@
+C:\Users\Propietario\Desktop\ServicioCliente\Servicio al Ciente\Servicio al Ciente\bin\Debug\Servicio al Ciente.exe
+C:\Users\Propietario\Desktop\ServicioCliente\Servicio al Ciente\Servicio al Ciente\bin\Debug\Servicio al Ciente.pdb
+C:\Users\Propietario\Desktop\ServicioCliente\Servicio al Ciente\Servicio al Ciente\obj\x86\Debug\Servicio_al_Ciente.Properties.Resources.resources
+C:\Users\Propietario\Desktop\ServicioCliente\Servicio al Ciente\Servicio al Ciente\obj\x86\Debug\Servicio_al_Ciente.Recuperacion_de_datos.resources
+C:\Users\Propietario\Desktop\ServicioCliente\Servicio al Ciente\Servicio al Ciente\obj\x86\Debug\Servicio al Ciente.csproj.GenerateResource.Cache
+C:\Users\Propietario\Desktop\ServicioCliente\Servicio al Ciente\Servicio al Ciente\obj\x86\Debug\Servicio al Ciente.exe
+C:\Users\Propietario\Desktop\ServicioCliente\Servicio al Ciente\Servicio al Ciente\obj\x86\Debug\Servicio al Ciente.pdb
+C:\Users\Propietario\Desktop\ServicioCliente\Servicio al Ciente\Servicio al Ciente\obj\x86\Debug\Servicio_al_Ciente.Form1.resources
+C:\Users\Propietario\Desktop\ServicioCliente\Servicio al Ciente\Servicio al Ciente\obj\x86\Debug\Servicio_al_Ciente.reporte.resources
+C:\Users\Propietario\Desktop\ServicioCliente\Servicio al Ciente\Servicio al Ciente\obj\x86\Debug\Servicio al Ciente.csprojResolveAssemblyReference.cache
+C:\Users\Propietario\Desktop\ServicioCliente\Servicio al Ciente\Servicio al Ciente\obj\x86\Debug\Servicio_al_Ciente.consulta.resources
+C:\Users\Propietario\Desktop\ServicioCliente\Servicio al Ciente\Servicio al Ciente\obj\x86\Debug\Servicio_al_Ciente.ingreso.resources
+C:\Users\Propietario\Documents\GitHub\prueba\ServicioCliente(final)\Servicio al Ciente\Servicio al Ciente\obj\x86\Debug\Servicio al Ciente.exe
+C:\Users\Propietario\Documents\GitHub\prueba\ServicioCliente(final)\Servicio al Ciente\Servicio al Ciente\obj\x86\Debug\Servicio al Ciente.pdb
