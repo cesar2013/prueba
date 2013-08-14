@@ -12,3 +12,5 @@ C:\Users\Propietario\Desktop\ServicioCliente\Servicio al Ciente\Servicio al Cien
 C:\Users\Propietario\Desktop\ServicioCliente\Servicio al Ciente\Servicio al Ciente\obj\x86\Debug\Servicio_al_Ciente.ingreso.resources
 C:\Users\Propietario\Documents\GitHub\prueba\ServicioCliente(final)\Servicio al Ciente\Servicio al Ciente\obj\x86\Debug\Servicio al Ciente.exe
 C:\Users\Propietario\Documents\GitHub\prueba\ServicioCliente(final)\Servicio al Ciente\Servicio al Ciente\obj\x86\Debug\Servicio al Ciente.pdb
+C:\Users\Propietario\Documents\GitHub\prueba\Servicio al Ciente\Servicio al Ciente\obj\x86\Debug\Servicio al Ciente.exe
+C:\Users\Propietario\Documents\GitHub\prueba\Servicio al Ciente\Servicio al Ciente\obj\x86\Debug\Servicio al Ciente.pdb
